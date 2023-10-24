@@ -20,6 +20,7 @@ const defaultRocket: IRocket = {
   mass: 0,
 };
 
+// setup Amin athentication
 const Admin: React.FC = () => {
   const theme = useTheme();
   const dispatch = useDispatch();
